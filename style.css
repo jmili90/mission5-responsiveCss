@@ -41,8 +41,7 @@ nav {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%; /* Make the nav span the full width of the viewport */
-    background-color: #f8f8f8; /* Adjust the background color as needed */
+    width: 100%; /* Make the nav span the full width of the viewport */    
     z-index: 1000; /* Ensure it stays on top of other elements */
     padding: 1em 2vw; /* Add padding for better aesthetics */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow for better visibility */
